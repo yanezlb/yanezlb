@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-### 👨‍💻 Experienced Developer | Tech Enthusiast since 2011 🚀
+### 👨‍💻 Tech Enthusiast | Experienced Developer since 2011 🚀
 
 Passionate about technology and continuous learning, I've been on a journey of coding and innovation since 2011. With a deep-rooted love for software development, I've embraced a wide array of technologies, constantly seeking new challenges and opportunities to expand my skills.
 
