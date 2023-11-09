@@ -10,7 +10,7 @@ Passionate about technology and continuous learning, I've been on a journey of c
 
 📚 I believe in the power of open-source and sharing knowledge to foster innovation and collaboration.
 
-🛠️ I'm working with a wide range technologies and frameworks as a React, VueJS, Laravel, FastAPI, ChatGPT integrations etc...
+🛠️ I'm working with a wide range technologies and frameworks and libraries as a React, VueJS, Laravel, FastAPI, ChatGPT integrations etc...
 
 📬 Reach out to me if you have any questions, ideas, or just want to chat. I'm always eager to connect with like-minded developers and enthusiasts.
 
