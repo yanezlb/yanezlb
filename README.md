@@ -4,7 +4,7 @@
 
 Passionate about technology and continuous learning, I've been on a journey of coding and innovation since 2011. With a deep-rooted love for software development, I've embraced a wide array of technologies, constantly seeking new challenges and opportunities to expand my skills.
 
-🌐 I'm fluent in various programming languages, including Python, JavaScript, PHP, and have experience with a wide range of web and mobile development frameworks.
+🌐 I'm fluent in various programming languages, including Python, PHP, SQL, JavaScript and have experience with a wide range of web and mobile development frameworks.
 
 🔧 Whether it's building robust applications, solving complex problems, or tinkering with the latest tools and frameworks, I thrive on the creative and problem-solving aspects of development.
 
